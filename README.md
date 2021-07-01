@@ -1,5 +1,3 @@
-# Product Landin Page with html/css/JavaScript for Microverse Pair Codign Trails. 
+# Product Landing Page
 
-
-
-# Product-LandingPage
+Product Landin Page with html/css/JavaScript for Microverse Pair Codign Trails. 
